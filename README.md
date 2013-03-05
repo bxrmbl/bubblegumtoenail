@@ -8,4 +8,4 @@ Thanks for checking it out.
 To install, place in /User/Library/Application Support/TextWrangler/Color Schemes.
 
 Bye fur now!
-<img src="http://www.andnowuknow.com/quick-dish/california-giant-berry-farms-new-campaign-timco-worldwide-welcomes-elizabeth-smart">
+<img src="http://www.andnowuknow.com/sites/default/files/uploaded-thumbnails/calgiany030513tn.jpg?1362509430">
