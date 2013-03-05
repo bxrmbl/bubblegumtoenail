@@ -8,4 +8,5 @@ Thanks for checking it out.
 To install, place in /User/Library/Application Support/TextWrangler/Color Schemes.
 
 Bye fur now!
-<img src="http://www.andnowuknow.com/sites/default/files/uploaded-thumbnails/calgiany030513tn.jpg?1362509430">
+
+<img src="https://s3.amazonaws.com/vpm-clients/bubblegumtoenail/bubble-gum-toenail-image-one.jpg">
