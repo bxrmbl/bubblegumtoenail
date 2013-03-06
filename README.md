@@ -10,3 +10,4 @@ To install, place in /User/Library/Application Support/TextWrangler/Color Scheme
 Bye fur now!
 
 <img src="https://s3.amazonaws.com/vpm-clients/bubblegumtoenail/bubble-gum-toenail-image-one.jpg">
+<img src="https://s3.amazonaws.com/vpm-clients/bubblegumtoenail/bubble-gum-toenail-image-two.jpg">
