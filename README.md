@@ -1,4 +1,4 @@
-bubblegumtoenail
+<b style="letter-spacing:-1px;">bubblegumtoenail</b>
 ================
 
 A text wrangler or bbcolors theme.
