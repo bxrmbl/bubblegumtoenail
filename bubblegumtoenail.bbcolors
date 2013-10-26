@@ -2,11 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<<<<<<< HEAD
 	<key>BackgroundColor</key>
-=======
-  <key>BackgroundColor</key>
->>>>>>> de3137d958644efa358546762f3c4b28efbf9f50
 	<string>rgba(0.000000,0.118915,0.190045,1.000000)</string>
 	<key>CommentsColor</key>
 	<string>rgba(1.000000,0.530702,0.738484,1.000000)</string>
@@ -27,11 +23,7 @@
 	<key>HTMLTagColor</key>
 	<string>rgba(0.438848,1.000000,0.529046,1.000000)</string>
 	<key>HighlightInsertionPoint</key>
-<<<<<<< HEAD
 	<integer>1</integer>
-=======
-	<false/>
->>>>>>> de3137d958644efa358546762f3c4b28efbf9f50
 	<key>InsertionPointLineHighlightColor</key>
 	<string>rgba(0.143771,0.143771,0.143771,1.0)</string>
 	<key>InvisibleOthersColor</key>
